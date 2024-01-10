@@ -1,0 +1,13 @@
+In this project the planned to use solar panels to give supply to traffic system and also
+focuses on the algorithm for switching the traffic lights according to vehicle density on
+road, thereby aiming at reducing the traffic congestion on roads which will help lower the
+number of accidents by using artificial intelligence. In recent years, video monitoring and
+surveillance systems have been widely used in traffic management for travel information,
+ramp metering and updates in real time.
+In the present scenario vehicular travel is increasing all over the world, especially in large
+urban areas. Therefore for simulating and optimizing traffic control to better
+accommodate this increasing demand is arises. In this paper we studied the optimization
+of traffic light controller in a city using wireless sensor. We have proposed a traffic light
+controller and simulator that allow us to study different situation of traffic density in City.
+Using wireless sensor we can easily senses the density of traffic because the general
+architecture of wireless sensor network is an infrastructure less communication network.
